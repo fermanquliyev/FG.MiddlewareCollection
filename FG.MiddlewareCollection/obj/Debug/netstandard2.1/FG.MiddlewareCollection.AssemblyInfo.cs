@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A collection of middleware for .NET applications.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb6c631d573a37696cd1c6216d9e313a0fdaf87")]
 [assembly: System.Reflection.AssemblyProductAttribute("FG.MiddlewareCollection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FG.MiddlewareCollection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

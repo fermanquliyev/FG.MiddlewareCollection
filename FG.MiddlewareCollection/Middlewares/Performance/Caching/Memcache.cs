@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Concurrent;
 using System.Threading.Tasks;
 
@@ -7,7 +8,7 @@ namespace FG.MiddlewareCollection.Middlewares.Performance
     {
         private static readonly ConcurrentDictionary<string, (object Value, DateTime Expiration)> _cache = new ConcurrentDictionary<string, (object, DateTime)>();
 
-        public async Task<CacheResponse<T>> GetAsync<T>(string key)
+        public CacheResponse<T> Get<T>(string key)
         {
             if (_cache.TryGetValue(key, out var cacheEntry) && cacheEntry.Expiration > DateTime.UtcNow)
             {

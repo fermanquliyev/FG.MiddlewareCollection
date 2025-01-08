@@ -10,7 +10,22 @@
     <Description>A collection of middleware for .NET applications.</Description>
     <PackageTags>middleware; .NET; ASP.NET; utility;</PackageTags>
     <RepositoryUrl>https://github.com/fermanquliyev/FG.MiddlewareCollection</RepositoryUrl>
+    <Title>FG.MiddlewareCollection</Title>
+    <PackageIcon>Screenshot 2025-01-08 162633.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Pictures\Screenshots\Screenshot 2025-01-08 162633.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />

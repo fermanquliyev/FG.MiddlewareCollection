@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FG.MiddlewareCollection</id>
+    <version>1.0.0</version>
+    <title>FG.MiddlewareCollection</title>
+    <authors>Farman Guliyev</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>Screenshot 2025-01-08 162633.png</icon>
+    <readme>README.md</readme>
+    <description>A collection of middleware for .NET applications.</description>
+    <tags>middleware .NET ASP.NET utility</tags>
+    <repository type="git" url="https://github.com/fermanquliyev/FG.MiddlewareCollection" commit="bdb6c631d573a37696cd1c6216d9e313a0fdaf87" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens" version="8.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="8.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\fguliyev\source\repos\fermanquliyev\FG.MiddlewareCollection\FG.MiddlewareCollection\bin\Debug\netstandard2.1\FG.MiddlewareCollection.dll" target="lib\netstandard2.1\FG.MiddlewareCollection.dll" />
+    <file src="C:\Users\fguliyev\Pictures\Screenshots\Screenshot 2025-01-08 162633.png" target="\Screenshot 2025-01-08 162633.png" />
+    <file src="C:\Users\fguliyev\source\repos\fermanquliyev\FG.MiddlewareCollection\README.md" target="\README.md" />
+  </files>
+</package>

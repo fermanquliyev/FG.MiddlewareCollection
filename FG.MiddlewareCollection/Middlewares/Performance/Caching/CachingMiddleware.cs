@@ -18,7 +18,7 @@ namespace FG.MiddlewareCollection.Middlewares.Performance
         public async Task InvokeAsync(HttpContext context)
         {
             var cacheKey = GenerateCacheKey(context.Request);
-            var cachedResponse = await _memcachedClient.GetAsync<string>(cacheKey);
+            var cachedResponse = _memcachedClient.Get<string>(cacheKey);
 
             if (cachedResponse.HasValue)
             {

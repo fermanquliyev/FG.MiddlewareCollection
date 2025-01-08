@@ -13,7 +13,7 @@ namespace FG.MiddlewareCollection.Middlewares.Security
         private readonly RequestDelegate _next;
         private readonly HashSet<IPAddress> _blacklistedIPs;
 
-        public IPBlacklistingMiddleware(RequestDelegate next, IPBlackList blacklistedIPs)
+        public IPBlacklistingMiddleware(RequestDelegate next, IPBlacklist blacklistedIPs)
         {
             _next = next;
             _blacklistedIPs = new HashSet<IPAddress>(blacklistedIPs.BlacklistedIPs?.Select(IPAddress.Parse));

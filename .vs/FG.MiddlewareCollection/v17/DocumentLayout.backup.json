@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\fg.middlewarecollection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\fg.middlewarecollection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\fg.middlewarecollection.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\fg.middlewarecollection.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewares\\performance\\caching\\cachingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\middlewares\\performance\\caching\\cachingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewares\\performance\\caching\\memcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\middlewares\\performance\\caching\\memcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewares\\security\\ipblacklisting\\ipblacklistingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\middlewares\\security\\ipblacklisting\\ipblacklistingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewares\\security\\ipblacklisting\\ipblacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\middlewares\\security\\ipblacklisting\\ipblacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewarecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\middlewarecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewares\\security\\ipblacklisting\\ipblacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\middlewares\\security\\ipblacklisting\\ipblacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\fg.middlewarecollection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\fg.middlewarecollection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewares\\monitoring\\healthcheck\\healthcheckmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewares\\monitoring\\advancedlogging\\advancedloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\middlewares\\monitoring\\advancedlogging\\advancedloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewares\\performance\\caching\\cachingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|solutionrelative:fg.middlewarecollection\\middlewares\\performance\\caching\\cachingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB9CD5DE-7376-42D0-8A57-AFED15A98F18}|FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj|c:\\users\\fguliyev\\source\\repos\\fermanquliyev\\fg.middlewarecollection\\fg.middlewarecollection\\middlewares\\security\\xssprotection\\xssprotectionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,6 +68,44 @@
               "RelativeDocumentMoniker": "FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj",
               "ToolTip": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj",
               "RelativeToolTip": "FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T15:19:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Memcache.cs",
+              "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Performance\\Caching\\Memcache.cs",
+              "RelativeDocumentMoniker": "FG.MiddlewareCollection\\Middlewares\\Performance\\Caching\\Memcache.cs",
+              "ToolTip": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Performance\\Caching\\Memcache.cs",
+              "RelativeToolTip": "FG.MiddlewareCollection\\Middlewares\\Performance\\Caching\\Memcache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:18:46.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPBlacklistingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Security\\IPBlacklisting\\IPBlacklistingMiddleware.cs",
+              "RelativeDocumentMoniker": "FG.MiddlewareCollection\\Middlewares\\Security\\IPBlacklisting\\IPBlacklistingMiddleware.cs",
+              "ToolTip": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Security\\IPBlacklisting\\IPBlacklistingMiddleware.cs",
+              "RelativeToolTip": "FG.MiddlewareCollection\\Middlewares\\Security\\IPBlacklisting\\IPBlacklistingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:18:18.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FG.MiddlewareCollection.csproj",
+              "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj",
+              "RelativeDocumentMoniker": "FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj",
+              "ToolTip": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj",
+              "RelativeToolTip": "FG.MiddlewareCollection\\FG.MiddlewareCollection.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-08T14:51:44.423Z",
@@ -63,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IPBlacklist.cs",
               "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Security\\IPBlacklisting\\IPBlacklist.cs",
               "RelativeDocumentMoniker": "FG.MiddlewareCollection\\Middlewares\\Security\\IPBlacklisting\\IPBlacklist.cs",
@@ -76,20 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MiddlewareCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\MiddlewareCollectionExtensions.cs",
               "RelativeDocumentMoniker": "FG.MiddlewareCollection\\MiddlewareCollectionExtensions.cs",
               "ToolTip": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\MiddlewareCollectionExtensions.cs",
               "RelativeToolTip": "FG.MiddlewareCollection\\MiddlewareCollectionExtensions.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAiwNEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAIAiwFcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T23:05:32.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HealthCheckMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Monitoring\\HealthCheck\\HealthCheckMiddleware.cs",
               "RelativeDocumentMoniker": "FG.MiddlewareCollection\\Middlewares\\Monitoring\\HealthCheck\\HealthCheckMiddleware.cs",
@@ -97,12 +147,11 @@
               "RelativeToolTip": "FG.MiddlewareCollection\\Middlewares\\Monitoring\\HealthCheck\\HealthCheckMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:41:41.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T22:41:41.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ErrorLoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Monitoring\\ErrorLogging\\ErrorLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "FG.MiddlewareCollection\\Middlewares\\Monitoring\\ErrorLogging\\ErrorLoggingMiddleware.cs",
@@ -110,12 +159,11 @@
               "RelativeToolTip": "FG.MiddlewareCollection\\Middlewares\\Monitoring\\ErrorLogging\\ErrorLoggingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:39:01.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T22:39:01.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "AdvancedLoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Monitoring\\AdvancedLogging\\AdvancedLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "FG.MiddlewareCollection\\Middlewares\\Monitoring\\AdvancedLogging\\AdvancedLoggingMiddleware.cs",
@@ -123,25 +171,24 @@
               "RelativeToolTip": "FG.MiddlewareCollection\\Middlewares\\Monitoring\\AdvancedLogging\\AdvancedLoggingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAACXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:30:59.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T22:30:59.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CachingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Performance\\Caching\\CachingMiddleware.cs",
               "RelativeDocumentMoniker": "FG.MiddlewareCollection\\Middlewares\\Performance\\Caching\\CachingMiddleware.cs",
               "ToolTip": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Performance\\Caching\\CachingMiddleware.cs",
               "RelativeToolTip": "FG.MiddlewareCollection\\Middlewares\\Performance\\Caching\\CachingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T00:16:31.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "XssProtectionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Security\\XssProtection\\XssProtectionMiddleware.cs",
               "RelativeDocumentMoniker": "FG.MiddlewareCollection\\Middlewares\\Security\\XssProtection\\XssProtectionMiddleware.cs",
@@ -149,12 +196,11 @@
               "RelativeToolTip": "FG.MiddlewareCollection\\Middlewares\\Security\\XssProtection\\XssProtectionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T23:55:17.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T23:55:17.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "RateLimitingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\fguliyev\\source\\repos\\fermanquliyev\\FG.MiddlewareCollection\\FG.MiddlewareCollection\\Middlewares\\Security\\RateLimiting\\RateLimitingMiddleware.cs",
               "RelativeDocumentMoniker": "FG.MiddlewareCollection\\Middlewares\\Security\\RateLimiting\\RateLimitingMiddleware.cs",
@@ -162,8 +208,7 @@
               "RelativeToolTip": "FG.MiddlewareCollection\\Middlewares\\Security\\RateLimiting\\RateLimitingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T16:14:31.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T16:14:31.017Z"
             }
           ]
         }
