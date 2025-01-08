@@ -37,7 +37,7 @@ namespace FG.MiddlewareCollection.Middlewares.Performance
                 var responseText = await new StreamReader(context.Response.Body).ReadToEndAsync();
                 context.Response.Body.Seek(0, SeekOrigin.Begin);
 
-                await _memcachedClient.SetAsync(cacheKey, responseText, 60); // Cache for 60 seconds
+                _memcachedClient.SetAsync(cacheKey, responseText, 60); // Cache for 60 seconds
                 await responseBody.CopyToAsync(originalBodyStream);
             }
         }
