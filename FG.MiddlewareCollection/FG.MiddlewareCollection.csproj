@@ -11,14 +11,14 @@
     <PackageTags>middleware; .NET; ASP.NET; utility;</PackageTags>
     <RepositoryUrl>https://github.com/fermanquliyev/FG.MiddlewareCollection</RepositoryUrl>
     <Title>FG.MiddlewareCollection</Title>
-    <PackageIcon>Screenshot 2025-01-08 162633.png</PackageIcon>
+    <PackageIcon>PackageIcon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Copyright>Copyright ©2025</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\..\Pictures\Screenshots\Screenshot 2025-01-08 162633.png">
+    <None Include="..\PackageIcon.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>

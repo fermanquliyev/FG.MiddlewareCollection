@@ -7,12 +7,12 @@ namespace FG.MiddlewareCollection.Middlewares.Performance
     public class CachingMiddleware
     {
         private readonly RequestDelegate _next;
-        private readonly Memcache _memcachedClient;
+        private readonly IMemcache _memcachedClient;
 
-        public CachingMiddleware(RequestDelegate next)
+        public CachingMiddleware(RequestDelegate next, IMemcache memcache)
         {
             _next = next;
-            _memcachedClient = new Memcache();
+            _memcachedClient = memcache;
         }
 
         public async Task InvokeAsync(HttpContext context)
@@ -42,7 +42,7 @@ namespace FG.MiddlewareCollection.Middlewares.Performance
             }
         }
 
-        private string GenerateCacheKey(HttpRequest request)
+        public string GenerateCacheKey(HttpRequest request)
         {
             return $"{request.Path}_{request.QueryString}";
         }

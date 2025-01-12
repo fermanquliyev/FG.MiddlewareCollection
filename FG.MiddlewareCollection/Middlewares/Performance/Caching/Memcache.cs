@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace FG.MiddlewareCollection.Middlewares.Performance
 {
-    public class Memcache
+    public class Memcache:IMemcache
     {
         private static readonly ConcurrentDictionary<string, (object Value, DateTime Expiration)> _cache = new ConcurrentDictionary<string, (object, DateTime)>();
 
@@ -36,6 +36,16 @@ namespace FG.MiddlewareCollection.Middlewares.Performance
 
     public class CacheResponse<T>
     {
+        public CacheResponse()
+        {
+            
+        }
+
+        public CacheResponse(T value)
+        {
+            Value = value;
+            HasValue = true;
+        }
         public bool HasValue { get; set; }
         public T Value { get; set; }
     }

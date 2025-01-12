@@ -58,8 +58,9 @@ namespace FG.MiddlewareCollection
         /// </summary>
         /// <param name="app">The IApplicationBuilder instance.</param>
         /// <returns>The IApplicationBuilder instance.</returns>
-        public static IApplicationBuilder UseMemcache(this IApplicationBuilder app)
+        public static IApplicationBuilder UseMemcache(this IApplicationBuilder app, ServiceCollection services)
         {
+            services.AddSingleton<IMemcache, Memcache>();
             return app.UseMiddleware<CachingMiddleware>();
         }
 
