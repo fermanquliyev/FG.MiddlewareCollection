@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Moq;
 
-namespace FG.MiddlewareCollection.Tests
+namespace FG.MiddlewareCollection.Tests.UnitTests
 {
     [TestClass]
     public class AdvancedLoggingMiddlewareTests
@@ -15,7 +15,7 @@ namespace FG.MiddlewareCollection.Tests
         public void Setup()
         {
             _mockLogger = new Mock<ILogger<AdvancedLoggingMiddleware>>();
-            _mockNext = new RequestDelegate((HttpContext context) =>
+            _mockNext = new RequestDelegate((context) =>
             {
                 context.Response.StatusCode = 200; // Mock the next middleware to set a response status.
                 return Task.CompletedTask;

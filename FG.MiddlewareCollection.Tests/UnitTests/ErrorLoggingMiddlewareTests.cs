@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Moq;
 
-namespace FG.MiddlewareCollection.Tests
+namespace FG.MiddlewareCollection.Tests.UnitTests
 {
     [TestClass]
     public class ErrorLoggingMiddlewareTests
@@ -22,7 +22,7 @@ namespace FG.MiddlewareCollection.Tests
         {
             // Arrange
             var exceptionToThrow = new InvalidOperationException("Test exception");
-            _mockNext = (HttpContext context) => throw exceptionToThrow;
+            _mockNext = (context) => throw exceptionToThrow;
 
             var middleware = new ErrorLoggingMiddleware(_mockNext, _mockLogger.Object);
             var context = new DefaultHttpContext();
@@ -49,7 +49,7 @@ namespace FG.MiddlewareCollection.Tests
         public async Task InvokeAsync_ShouldNotLogError_WhenNoExceptionIsThrown()
         {
             // Arrange
-            _mockNext = (HttpContext context) => Task.CompletedTask;
+            _mockNext = (context) => Task.CompletedTask;
 
             var middleware = new ErrorLoggingMiddleware(_mockNext, _mockLogger.Object);
             var context = new DefaultHttpContext();

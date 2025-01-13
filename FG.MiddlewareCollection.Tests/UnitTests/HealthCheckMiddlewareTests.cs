@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FG.MiddlewareCollection.Tests
+namespace FG.MiddlewareCollection.Tests.UnitTests
 {
     [TestClass]
     public class HealthCheckMiddlewareTests

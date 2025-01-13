@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace FG.MiddlewareCollection.Middlewares.Security
 {
-    internal class IPWhitelistingMiddleware
+    public class IPWhitelistingMiddleware
     {
         private readonly RequestDelegate _next;
         private readonly HashSet<IPAddress> _whitelistedIPs;

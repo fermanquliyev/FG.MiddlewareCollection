@@ -1,13 +1,8 @@
 ﻿using FG.MiddlewareCollection.Middlewares.Performance;
 using Microsoft.AspNetCore.Http;
 using Moq;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace FG.MiddlewareCollection.Tests
+namespace FG.MiddlewareCollection.Tests.UnitTests
 {
     [TestClass]
     public class CachingMiddlewareTests
